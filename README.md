@@ -1,0 +1,2 @@
+# sekolahkita
+halaman1
